@@ -32,7 +32,6 @@
 ### 🚀 Sobre mim
 
 - 🎓 Pós-graduado em **Análise de Dados (Multivix)**  
-- 💼 Atualmente na **SpeedTask**, atuando com **otimização de queries, automações e dashboards em Power BI**  
 - 🔍 Interesse em **engenharia de dados, BI e performance de banco de dados**  
 - 🎥 Produzo conteúdo técnico sobre **SQL, Power BI e Firebird** no [meu canal do YouTube](https://www.youtube.com/channel/UCpWT8A0CNAffVIg46l7x5bQ)  
 
