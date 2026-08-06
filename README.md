@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Ricardo Miliotte  
 
-🎯 **Analista de Sistemas Sênior | SQL • Power BI • Firebird • Performance Tuning**  
+🎯 **Analista de Dados | SQL • Power BI • Firebird • Performance Tuning**  
 💡 Apaixonado por dados, automação e otimização de processos.  
 
 ---
